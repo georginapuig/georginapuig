@@ -1,4 +1,4 @@
-<img width="120px" src="https://media.giphy.com/media/RJaiws3GnVHcybdk0l/giphy.gif" alt="hello frind">
+<img width="120px" src="https://media.giphy.com/media/eK1OcsQz64UWLIpTrl/giphy.gif" alt="hello frind">
 
 <!--
 **georginapuig/georginapuig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
