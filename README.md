@@ -1,7 +1,14 @@
-<img width="120px" src="https://media.giphy.com/media/eK1OcsQz64UWLIpTrl/giphy.gif" alt="hello frind">
+<details>
+  <summary>🔥 Top languages</summary>
+  <br>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/georginapuig/github-readme-stats)
+</details>
 
 <!--
 **georginapuig/georginapuig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="120px" src="https://media.giphy.com/media/eK1OcsQz64UWLIpTrl/giphy.gif" alt="hello frind">
 
 ### Hi there 👋
 
