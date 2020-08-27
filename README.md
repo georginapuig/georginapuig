@@ -1,5 +1,3 @@
-<img width="120px" src="https://media.giphy.com/media/eK1OcsQz64UWLIpTrl/giphy.gif" alt="hello frind">
-
 <details>
   <summary>🔥 Top languages</summary>
   <br>
@@ -10,6 +8,8 @@
 
 <!--
 **georginapuig/georginapuig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img width="120px" src="https://media.giphy.com/media/eK1OcsQz64UWLIpTrl/giphy.gif" alt="hello frind">
 
 
 ### Hi there 👋
